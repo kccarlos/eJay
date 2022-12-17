@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ejay/static/css/main.d326de46.css",
-    "main.js": "/ejay/static/js/main.b874c523.js",
-    "static/media/map-image.png": "/ejay/static/media/map-image.3cd6dd9808474f6ed762.png",
-    "static/media/header-bg.jpg": "/ejay/static/media/header-bg.050c4ecaaa8ce224a5ca.jpg",
-    "index.html": "/ejay/index.html",
-    "main.d326de46.css.map": "/ejay/static/css/main.d326de46.css.map",
-    "main.b874c523.js.map": "/ejay/static/js/main.b874c523.js.map"
+    "main.css": "/eJay/static/css/main.b15155f7.css",
+    "main.js": "/eJay/static/js/main.b874c523.js",
+    "static/media/map-image.png": "/eJay/static/media/map-image.3cd6dd9808474f6ed762.png",
+    "static/media/header-bg.jpg": "/eJay/static/media/header-bg.050c4ecaaa8ce224a5ca.jpg",
+    "index.html": "/eJay/index.html",
+    "main.b15155f7.css.map": "/eJay/static/css/main.b15155f7.css.map",
+    "main.b874c523.js.map": "/eJay/static/js/main.b874c523.js.map"
   },
   "entrypoints": [
-    "static/css/main.d326de46.css",
+    "static/css/main.b15155f7.css",
     "static/js/main.b874c523.js"
   ]
 }
