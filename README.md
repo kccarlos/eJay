@@ -12,16 +12,16 @@
   <p align="center">
     <!-- Buy & Sell Goods @ JHU -->
     <br />
-    <a href="https://github.com/jhu-oose-f22/team-return0/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kccarlos/eJay/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/orgs/jhu-oose-f22/projects/3/views/1?layout=table">Project Board</a>
+    <a href="https://github.com/kccarlos/eJay/projects?query=is%3Aopen">Project Board</a>
     ·
-    <a href="https://github.com/jhu-oose-f22/team-return0/tree/dev">Latest Code</a>
+    <a href="https://github.com/kccarlos/eJay/blob/main/">Latest Code</a>
     ·
-    <a href="https://github.com/jhu-oose-f22/team-return0/tree/main">Current Release</a>
+    <a href="https://github.com/kccarlos/eJay/tree/main/doc/">Design Doc</a>
     ·
-    <a href="https://github.com/jhu-oose-f22/team-return0/issues">Request Feature</a>
+    <a href="https://github.com/kccarlos/eJay/issues">Request Feature</a>
   </p>
 </div>
 
