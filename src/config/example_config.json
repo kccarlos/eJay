@@ -1,0 +1,12 @@
+{
+  "mongoURI": "mongodb+srv://name@xxx.mongodb.net/ejay",
+  "jwtSecret": "secret",
+  "jwtSecret2": "secret2",
+  "imgbbHostingURI": "https://api.imgbb.com/1/upload",
+  "imgbbHostKey":  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "imgKey": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "eJayURL": "http://ejay.online",
+  "emailUser": "ejay-no-reply@outlook.com",
+  "emailPwd": "xxxxxxxxxx",
+  "openaiApiKey": "sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+}
